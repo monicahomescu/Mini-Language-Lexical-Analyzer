@@ -55,3 +55,5 @@
     whilestmt ::= "ASLONGAS" "(" condition ")" "REPEAT" cmpdstmt
     condition ::= expression relation expression
     relation ::= "<" | "<=" | "==" | "!=" | ">=" | ">"
+
+[Documentaion]([https://github.com/user/repo/blob/branch/other_file.md](https://github.com/monicahomescu/Mini-Language-Lexical-Analyzer/blob/main/documentation.pdf)https://github.com/monicahomescu/Mini-Language-Lexical-Analyzer/blob/main/documentation.pdf)
