@@ -1,6 +1,6 @@
 # Mini-Language-Lexical-Analyzer
 
-[Full Documentation]([src/documentation.pdf](https://github.com/monicahomescu/Mini-Language-Lexical-Analyzer/blob/main/documentation.pdf).md])
+[Full Documentation](https://github.com/monicahomescu/Mini-Language-Lexical-Analyzer/blob/main/documentation.pdf.md)
 
 ### Lexic
 
