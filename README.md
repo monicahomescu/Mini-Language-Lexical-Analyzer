@@ -1,6 +1,8 @@
 # Mini-Language-Lexical-Analyzer
 
-## Lexic
+[Full Documentation]([src/documentation.pdf.md)
+
+### Lexic
 
     Alphabet:
     	a. lower (a-z) and upper (A-Z) case letters of the English alphabet
@@ -33,7 +35,7 @@
 		string ::= "char{char}"
 		char ::= letter | digit
 
-  ## Syntax
+  ### Syntax
 
     program ::= "program" "{" decllist "\n" cmpdstmt "}"
     decllist ::= declaration | declaration "," decllist
@@ -55,5 +57,3 @@
     whilestmt ::= "ASLONGAS" "(" condition ")" "REPEAT" cmpdstmt
     condition ::= expression relation expression
     relation ::= "<" | "<=" | "==" | "!=" | ">=" | ">"
-
-[Documentaion]([https://github.com/user/repo/blob/branch/other_file.md](https://github.com/monicahomescu/Mini-Language-Lexical-Analyzer/blob/main/documentation.pdf)https://github.com/monicahomescu/Mini-Language-Lexical-Analyzer/blob/main/documentation.pdf)
